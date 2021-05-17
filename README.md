@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dschrad2
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Python for data science and development
+- 💞️ I’m looking to collaborate on cybersecurity-related projects
+- 📫 Reach me at https://www.linkedin.com/in/dustin-schrader-9080b9a
