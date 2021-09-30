@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dschrad2
-- 👀 I’m interested in public policy, cybersecurity, and sports
+- 👀 I’m interested in elections, politics, and sports
 - 🌱 I’m currently learning computer science, as a continuation of my learning of data science
-- 💞️ I’m looking to collaborate on policy-related projects
+- 💞️ I’m looking to collaborate on policy-related or sports-related projects
 - 📫 Reach me at https://www.linkedin.com/in/dustin-schrader-9080b9a
